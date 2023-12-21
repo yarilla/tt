@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <name>book1</name>
+        <price>11</price>
+        <genre>tiktokstory</genre>
+    </book>
+    <book>
+        <name>book2</name>
+        <price>22</price>
+        <genre>drama</genre>
+    </book>
+    <book>
+        <name>book3</name>
+        <price>33</price>
+        <genre>milodarmas</genre>
+    </book>
+</books>
